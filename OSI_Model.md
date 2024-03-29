@@ -13,18 +13,19 @@
 <br/>
 
 <p>Data transmission is carried out through these layers and the data is transmitted to the user. Each layer in the OSI model is explained under the following topics.</p>
-# 1.Physical Layer
+<ol>
+<li>Physical Layer</li>
 <p>The physical layer is the first layer in the OSI model. In this layer, data is transmitted in bits along the communication channels. Since the physical layer is only responsible for the transmission of data, it does not have any information about the type of data it transmits and what it is. The data for this layer consists of ordered bit sequences.</p>
-# 2.Datalink Layer
+<li> Datalink Layer</li>
 <p>The datalink layer is the 2nd layer in the OSI model. This layer processes the bits from the physical layer and prepares them to be sent to the next layer. The basic operation in this layer is physical addressing.</p>
-# 3.Network Layer
+<li>Network Layer</li>
 <p>The network layer is the 3rd layer in the OSI model. The network layer is responsible for delivering the data to the destination logical address (IP Address). The basic operation in this layer is logical addressing.</p>
-# 4.Transport Layer
+<li>Transport Layer</li>
 <p>The transport layer is the 4th layer in the OSI model. The transport layer is responsible for transmission security. This layer provides many additional controls for error-free transmission of data and thanks to these controls, data transmission is successfully performed.</p>
-# 5.Session Layer
+<li>Session Layer</li>
 <p>The session layer is the 5th layer in the OSI model. The session layer is responsible for providing the necessary services for the presentation layer to work. The main operation in this layer is session management.</p>
-# 6.Presentation Layer
+<li>Presentation Layer</li>
 <p>The presentation layer is the 6th layer in the OSI model. The presentation layer is the layer where data is displayed. Two communicating nodes must use a common language for data representation. Thanks to this layer, the agreement is made in the language used.</p>
-# 7.Application Layer
+<li>Application Layer</li>
 <p>The Application layer is the 7th and final layer in the OSI model. The application layer is the layer closest to the user and provides access to structures found in the user-level OSI model.</p>
-
+</ol>
