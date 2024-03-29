@@ -1,0 +1,14 @@
+# TCP/IP Model
+
+<p>The TCP/IP model was designed and developed by the Department of Defense (DoD) in the 1960s. When the TCP/IP model was introduced, there was no model that set the standards in computer network communication yet. With this model, it was determined how the network communication should be on the basis of the internet. The TCP/IP model has a layered architecture and consists of 4 layers:</p>
+
+<ul>
+<li>Application Layer</li>
+<li>Transport Layer</li>
+<li>Internet Layer</li>
+<li>Network Access Layer</li>
+</ul>
+
+<br/>
+
+
