@@ -64,3 +64,30 @@ Some topologies are described in the following topics:</p>
 ![topology3](https://github.com/Hasul79/Network-Fundamentals/assets/95657084/6de5d990-0827-438a-b3b1-908d1d11c10a)
 
 
+# Bus Topology
+
+<p>Bus topology is a topology where nodes are located on a common path and data transmission is made with a bidirectional connection on this path. In the bus topology, each node receives every transmitted data even if it does not belong to it. Since there is no hierarchical order among the nodes, there is no transmission priority.</p>
+<br/>
+
+![topology5](https://github.com/Hasul79/Network-Fundamentals/assets/95657084/c716a41b-3d8b-4995-9a50-2dacf8b2b8b9)
+
+<br/>
+
+![topologies-table-3](https://github.com/Hasul79/Network-Fundamentals/assets/95657084/ba808eca-969d-4666-a50a-947a749619db)
+
+# Point-to-Point Topology
+<p>Point-to-point topology is the simplest topology and consists of two nodes connected together. For example, a passing call between two phones creates a point-to-point topology, or a direct connection between two computers creates a point-to-point topology.</p>
+<br/>
+
+![topology6](https://github.com/Hasul79/Network-Fundamentals/assets/95657084/e57d82c7-0992-4330-958b-83db62189417)
+
+
+#Tree Topology
+<p>Tree topology is a hybrid network topology formed by connecting star and bus topology. Tree topology has a hierarchical order and each node can have any number of subnodes.</p>
+<br/>
+
+
+![topology7](https://github.com/Hasul79/Network-Fundamentals/assets/95657084/c479f000-d62e-42ed-997f-0633e9f9f730)
+
+
+
