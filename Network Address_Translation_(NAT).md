@@ -1,4 +1,4 @@
-# Network Address Translation (NAT)
+<h1 align="center">Network Address Translation (NAT)</h1>
 
 <p>Network Address Translation(NAT) is a method that converts private IP addresses to public IP addresses. Since private IP addresses are non-routing IP addresses, these IP addresses cannot be used on the internet. These IP addresses allow communication in the local network only. Thanks to NAT, limited IPv4 addresses are used more sparingly. In addition, a kind of network segmentation is provided thanks to NAT. It is beneficial in controlling and securing the connections coming from outside the network into the network. In order to use the NAT method, a device with a gateway must perform packet routing. This device has a NAT table and IP address conversions are performed by looking at this table.</p>
 <h2>NAT Advantages and Disadvantages</h2>
